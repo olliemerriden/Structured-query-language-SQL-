@@ -1,1 +1,0 @@
-# Structured-query-language-SQL-
